@@ -65,7 +65,7 @@
         <h2 class="title" >Paling Laris !!!!</h2>
             <div class="row">
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/1.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg"></a>
                     <a href="products-details.html"><h4>Downshifter Sports Shoes</h4></a>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -77,7 +77,7 @@
                     <p>Rp.240.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/2.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg"g"></a>
                     <h4>Lace-Up Running Shoes</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -89,7 +89,7 @@
                     <p>Rp.310.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/3.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg""></a>
                     <h4>Lace Fastening Shoes</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -101,7 +101,7 @@
                     <p>Rp.199.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/4.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg"></a>
                     <h4>Flat Lace-Fastening Shoes</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -116,7 +116,7 @@
          <h2 class="title" >Produk Ready Stock</h2>
             <div class="row">
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/5.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg""></a>
                     <h4>Flat Heel gray hoes</h4>
                     <div class="rating">
                         <!--(before this added awesome4 cdn font link to the head)added a cdn link by searching font awesome4 icon and from the site  search the star entering the first option and getting a link of this fa-star*-->
@@ -141,7 +141,7 @@
                     <p>Rp.210.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/7.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg""></a>
                     <h4>HRX Men's cotton socks</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -153,7 +153,7 @@
                     <p>Rp.239.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/8.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/8.jpg"></a>
                     <h4>Lace-Up Running Shoes</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -167,7 +167,7 @@
             </div>
             <div class="row">
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/4.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/4.jpg"></a>
                     <h4>Flat Heel gray hoes</h4>
                     <div class="rating">
                         <!--(before this added awesome4 cdn font link to the head)added a cdn link by searching font awesome4 icon and from the site  search the star entering the first option and getting a link of this fa-star*-->
@@ -180,7 +180,7 @@
                     <p>Rp.230.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/3.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/3.jpg"></a>
                     <h4>Lace-Fastening black Shoes</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -192,7 +192,7 @@
                     <p>Rp.210.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/2.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/2.jpg"></a>
                     <h4>HRX Men's cotton socks</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
@@ -204,7 +204,7 @@
                     <p>Rp.239.000</p>
                 </div>
                 <div class="col-4">
-                    <a href="/Nix-ID/product-details.html"><img src="/Nix-ID/images/1.jpg"></a>
+                    <a href="/Nix-ID/product-details.html"><img src="./images/1.jpg"></a>
                     <h4>Lace-Up Running Shoes</h4>
                     <div class="rating">
                         <i class="fa fa-star" ></i>
